@@ -11,27 +11,44 @@ To start the application after cloning(i am considering that you have node.js in
 2.Download all the packages, npm all of them you can see all the dependencies in package.json  
 
 3.Make a development.json file in config folder
- Code for development.json
+
+Code for development.json
 {
+
   "host": "http://localhost:3000",
+  
   "dbURI": "",  //URI of your mongodb online database
+  
   "sessionSecret": "catscanfly",
+  
   "fb": {
+    
     "clientID": "",  //Make a development account of facebook if you don't have and add cridentials
+    
     "clientSecret": "",
+    
     "callbackURL": "/auth/facebook/callback",
+    
     "profileFields": ["id", "displayName", "photos"]
+  
   },
+  
   "google":{
+    
     "clientID":"",  //add google app cridentials
+    
     "clientSecret": "",
+    
     "callbackURL": "http://localhost:3000/auth/google/callback",
     
     "profileFields": ["id", "displayName", "photos"]
   },
   "redis":{
+    
     "host" : "127.0.0.1",
+    
     "port" : "6370",
+    
     "password" : ""
 
   }
