@@ -1,5 +1,6 @@
 # chitchat-js
-Run-Time chat application 
+Run-Time multiuser chat application
+(with gmail/facebook authentication,uses mongodb database to store user details and webSockets are use for real time chatting without page reload and redis is use to communcate between different servers) 
 
 Go to the master branch for Code of multiroom realtime chat application
 
