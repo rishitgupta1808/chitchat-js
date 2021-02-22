@@ -52,4 +52,6 @@ Code for development.json {
 
 5.Your realtime chat application is deployed
 
+sample video of the chat application
+
 https://user-images.githubusercontent.com/51379936/108733220-534a1a00-7554-11eb-84b8-8266dde76990.mp4
