@@ -51,3 +51,5 @@ Code for development.json {
 4.For using facebook authorization we need https:// server so for it download ngrok and follow the steps written in following link https://drive.google.com/file/d/1jzKYHoErFFtFMcgcDJfShBhSL-eert8o/view?usp=sharing
 
 5.Your realtime chat application is deployed
+
+https://user-images.githubusercontent.com/51379936/108733220-534a1a00-7554-11eb-84b8-8266dde76990.mp4
